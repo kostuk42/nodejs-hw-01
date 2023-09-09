@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostuk42/nodejs-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostuk42/nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/kostuk42/nodejs-hw-01#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
